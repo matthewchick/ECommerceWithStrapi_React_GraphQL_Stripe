@@ -25,20 +25,20 @@
     "strapi-hook-mongoose": "3.0.0-alpha.26.2"
   },
   "author": {
-    "name": "matthewchick",
-    "email": "chikmatthew@gmail.com",
+    "name": "jeremychik",
+    "email": "",
     "url": ""
   },
   "maintainers": [
     {
-      "name": "matthewchik",
+      "name": "jeremychik",
       "email": "",
       "url": ""
     }
   ],
   "strapi": {
     "packageManager": "npm",
-    "uuid": "908d19e7-d197-4477-84df-30b88b43d1f6"
+    "uuid": "e6af52e0-6931-43a1-ae82-5659ea0d4e45"
   },
   "engines": {
     "node": ">= 10.0.0",
